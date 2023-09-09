@@ -1,5 +1,9 @@
 <img src="./Images/Screenshot (179).png" width="100%" height="250px" alt="IBRAHIM HASSAN" />
 
+<p align="center">
+I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
+</p>
+
 <!--
 **Ibhassan01/Ibhassan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
