@@ -1,7 +1,7 @@
 <img src="./Images/Screenshot (179).png" width="100%" height="250px" alt="IBRAHIM HASSAN" />
 
 <p align="center">
-I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
+I'm a self-learning front-enddeveloper with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
 </p>
 
 <!--
