@@ -30,3 +30,5 @@ I'm a self-learning front-enddeveloper with a passion for web programming. My go
 - 😄 Pronouns: HE/HIM
 
 - ⚡ Fun fact: I love anime and video games. Oh, and cats too 😻!
+
+<img align="right" alt="GIF" src="./svgs/gif.svg" width="360px"/>
