@@ -4,17 +4,29 @@
 I'm a self-learning front-enddeveloper with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
 </p>
 
-<!--
-**Ibhassan01/Ibhassan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<br>
 
-Here are some ideas to get you started:
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+- 🔭 I’m currently working on becoming a **Front-end Developer**
+
+- 🌱 I’m currently learning Javascript
+
+- 👯 I’m looking to collaborate on any open source project with javascript as it's main language
+
+- 🤔 I’m looking for help with understanding **Asynchronous and Await functions in JavaScript**
+
+- 💬 Ask me about **HTML, CSS and JavaScript**
+
+- 📫 How to reach me: **olorunnisolaibrahim46@gmail.com**
+
+- 😄 Pronouns: HE/HIM
+
+- ⚡ Fun fact: I love anime and video games. Oh, and cats too 😻!
