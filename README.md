@@ -8,7 +8,7 @@ I'm a self-learning front-enddeveloper with a passion for web programming. My go
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="./svgs/gif.svg" width="360px"/>
+<img align="right" alt="GIF" src="./svgs/gifs.svg" width="360px"/>
 
 
 <br>
