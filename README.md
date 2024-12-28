@@ -20,8 +20,6 @@ I'm a self-learning front-enddeveloper with a passion for web programming. My go
 
 - 👯 I’m looking to collaborate on any open source project with javascript as it's main language
 
-- 🤔 I’m looking for help with understanding **Asynchronous and Await functions in JavaScript**
-
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me: **olorunnisolaibrahim46@gmail.com**
