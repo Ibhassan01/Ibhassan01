@@ -1,33 +1,113 @@
-<img src="./Images/Screenshot (179).png" width="100%" height="250px" alt="IBRAHIM HASSAN" />
+<img src="./Images/Screenshot (460).png" width="100%" height="250px" alt="IBRAHIM HASSAN" />
+
+<h1 align="center">Hi 👋, I'm Ibrahim Hassan</h1>
 
 <p align="center">
-I'm a self-learning front-enddeveloper with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
+A self-taught Front-End Developer passionate about building scalable and user-friendly web applications.
 </p>
 
-##
-<br>
+<p align="center">
+I enjoy turning ideas into real products using modern JavaScript tools and frameworks.
+</p>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="./svgs/gifs.svg" width="360px"/>
+---
 
+## 🚀 About Me
 
-<br>
+- 🔭 Currently building **React-based web applications**
+- 🌱 Learning **advanced JavaScript, TypeScript and React architecture**
+- ⚙️ Working with **Firebase (Auth, Firestore, Hosting)**
+- 📊 Exploring **data visualization with Recharts**
+- 👯 Open to collaborating on **JavaScript / React projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React and Firebase**
+- 📫 Reach me at **olorunnisolaibrahim46@gmail.com**
 
+---
 
-- 🔭 I’m currently working on becoming a **Front-end Developer**
+## 🧰 Tech Stack
 
-- 🌱 I’m currently learning Javascript
+### Frontend
 
-- 👯 I’m looking to collaborate on any open source project with javascript as it's main language
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
-- 🤔 I’m looking for help with understanding **Asynchronous and Await functions in JavaScript**
+### Backend / Services
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-- 📫 How to reach me: **olorunnisolaibrahim46@gmail.com**
+### Tools
 
-- 😄 Pronouns: HE/HIM
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
-- ⚡ Fun fact: I love anime and video games. Oh, and cats too 😻!
+---
 
+## 🧩 Featured Project
 
+### 📚 Teacher Reporting System
+
+A web application designed for schools where teachers submit daily reports and administrators review performance.
+
+**Key Features**
+
+- Teacher dashboards
+- Daily report submission forms
+- Admin analytics dashboard
+- Firebase authentication system
+- Firestore data management
+
+**Tech Used**
+
+React • Firebase • Tailwind CSS • Vite
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibhassan01&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhassan01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ibhassan01&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibhassan01&theme=tokyo-night"/>
+
+---
+
+## 🎮 Fun Facts
+
+- I enjoy anime and video games
+- I love cats 😻
+- I enjoy solving coding problems and building real-world apps
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+
+<a href="mailto:olorunnisolaibrahim46@gmail.com">
+<img src="https://img.shields.io/badge/email-contact-red"/>
+</a>
+
+</p>
