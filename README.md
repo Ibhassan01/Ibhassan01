@@ -69,45 +69,33 @@ React • Firebase • Tailwind CSS • Vite
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ibhassan01&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibhassan01&layout=compact&theme=tokyonight"/>
-
+I'm a self-learning front-enddeveloper with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience.
 </p>
 
----
+##
+<br>
 
-## 🔥 GitHub Streak
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="./svgs/gifs.svg" width="360px"/>
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ibhassan01&theme=tokyonight"/>
+<br>
 
-</p>
 
----
+- 🔭 I’m currently working on becoming a **Front-end Developer**
 
-## 📈 Contribution Graph
+- 🌱 I’m currently learning Javascript
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibhassan01&theme=tokyo-night"/>
+- 👯 I’m looking to collaborate on any open source project with javascript as it's main language
 
----
+- 🤔 I’m looking for help with understanding **Asynchronous and Await functions in JavaScript**
 
-## 🎮 Fun Facts
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
-- I enjoy anime and video games
-- I love cats 😻
-- I enjoy solving coding problems and building real-world apps
+- 📫 How to reach me: **olorunnisolaibrahim46@gmail.com**
 
----
+- 😄 Pronouns: HE/HIM
 
-## 🤝 Connect With Me
+- ⚡ Fun fact: I love anime and video games. Oh, and cats too 😻!
 
-<p>
 
-<a href="mailto:olorunnisolaibrahim46@gmail.com">
-<img src="https://img.shields.io/badge/email-contact-red"/>
-</a>
-
-</p>
