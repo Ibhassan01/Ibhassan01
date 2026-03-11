@@ -70,9 +70,9 @@ React • Firebase • Tailwind CSS • Vite
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibhassan01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ibhassan01&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhassan01&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibhassan01&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -82,7 +82,7 @@ React • Firebase • Tailwind CSS • Vite
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ibhassan01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Ibhassan01&theme=tokyonight"/>
 
 </p>
 
@@ -90,7 +90,7 @@ React • Firebase • Tailwind CSS • Vite
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibhassan01&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibhassan01&theme=tokyo-night"/>
 
 ---
 
