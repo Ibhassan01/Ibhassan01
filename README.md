@@ -76,12 +76,6 @@ React • Firebase • Tailwind CSS • Vite
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibhassan01&theme=tokyo-night"/>
-
----
-
 ## 🎮 Fun Facts
 
 - I enjoy anime and video games
